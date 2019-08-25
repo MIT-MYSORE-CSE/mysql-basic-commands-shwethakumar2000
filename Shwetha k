@@ -1,1 +1,9 @@
-Bkdhdhsbsnk
+Show databases;
+Create database Shwetha; 
+Use Shwetha 
+Show databases; 
+Create table student(usn varchar(10)
+,name varchar(20);see integer,sem char(1));
+
+
+
